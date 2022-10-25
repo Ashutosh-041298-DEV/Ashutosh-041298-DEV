@@ -22,7 +22,7 @@
 
 🔭 I’m currently exploring and polishing my skills
 
-🌍 I'm basically from Madhya Pradesh, India
+🌍 I'm basically from Bhilai,Chhattisgarh, India
 
 ⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
@@ -32,9 +32,9 @@
 
 🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, Bootstrap & styled-components.
 
-📧 Email - bansiyalokesh29988@gmail.com
+📧 Email - Ashutoshm439@gmail.com
 
-📄 Know about my skills  [Resume](https://drive.google.com/file/d/1LQC4qMoLclFHtr-zcAokIuGxgoP59AU-/view?usp=sharing) 
+📄 Know about my skills  [Resume]() 
 
 
 <p><a href="https://Ashutosh-041298-DEV.github.io/">My Portfolio </a></p>
