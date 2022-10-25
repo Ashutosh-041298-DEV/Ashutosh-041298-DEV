@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lokesh Patidar</h1>
+
+<h1 align="center">Hi 👋, I'm Ashutosh Mahapatra</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -6,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Lokesh Patidar 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Ashutosh Mahapatra 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
@@ -14,9 +15,9 @@
 <h5>I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.</h5>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lokesh-patidar&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-patidar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ashutosh-041298-DEV&label=Profile%20views&color=0e75b6&style=flat" alt="Ashutosh-041298-DEV" /> </p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lokesh-patidar&theme=darkhub)](https://github.com/lokesh-patidar/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Ashutosh-041298-DEV&theme=darkhub)](https://github.com/Ashutosh-041298-DEV/github-profile-trophy)
 
 
 🔭 I’m currently exploring and polishing my skills
@@ -25,9 +26,9 @@
 
 ⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
-👨‍💻 My Portfilio [Click here](https://lokesh-patidar.github.io/)
+👨‍💻 My Portfilio [Click here](https://Ashutosh-041298-DEV.github.io/)
 
-👀 My Github Repositories [Click here](https://github.com/lokesh-patidar?tab=repositories)
+👀 My Github Repositories [Click here](https://github.com/Ashutosh-041298-DEV?tab=repositories)
 
 🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, Bootstrap & styled-components.
 
@@ -36,11 +37,11 @@
 📄 Know about my skills  [Resume](https://drive.google.com/file/d/1LQC4qMoLclFHtr-zcAokIuGxgoP59AU-/view?usp=sharing) 
 
 
-<p><a href="https://lokesh-patidar.github.io/">My Portfolio </a></p>
+<p><a href="https://Ashutosh-041298-DEV.github.io/">My Portfolio </a></p>
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-patidar-aa45a0236/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-mahapatra-740643234/) 
 
 <br/>
 
@@ -92,19 +93,19 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-patidar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ashutosh-041298-DEV/github-readme-stats"><img alt="Ashutosh-041298-DEV Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-041298-DEV&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
-    <a href="https://github.com/lokesh-patidar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lokesh-patidar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-patidar&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <a href="https://github.com/Ashutosh-041298-DEV/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashutosh-041298-DEV streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-041298-DEV&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Github Stats" src="https://github-readme-stats.vercel.app/api?username=lokesh-patidar&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="lokesh-patidar" /></a>
+    <a href="https://github.com/Ashutosh-041298-DEV/github-readme-stats"><img alt="Ashutosh-041298-DEV Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-041298-DEV&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Ashutosh-041298-DEV" /></a>
     </p>                                                                 
  <h6 align="center"> 
 
@@ -114,7 +115,7 @@
 
   <br/>
 
-<a href="https://github.com/lokesh-patidar/github-readme-activity-graph"><img alt="lokesh-patidar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lokesh-patidar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh-041298-DEV/github-readme-activity-graph"><img alt="Ashutosh-041298-DEV Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh-041298-DEV&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
