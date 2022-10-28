@@ -34,7 +34,7 @@
 
 📧 Email - Ashutoshm439@gmail.com
 
-📄 Know about my skills  [Resume]() 
+📄 Know about my skills  [Resume](https://drive.google.com/file/d/1L1y-rCfbtQCM79IbNfX5x2EcEqlfcNbR/view?usp=sharing) 
 
 
 <p><a href="https://Ashutosh-041298-DEV.github.io/">My Portfolio </a></p>
