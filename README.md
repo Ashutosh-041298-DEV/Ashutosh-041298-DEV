@@ -93,7 +93,7 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/Ashutosh-041298-DEV/github-readme-stats"><img alt="Ashutosh-041298-DEV Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-041298-DEV&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117@private=true" /></a>
+  <a href="https://github.com/Ashutosh-041298-DEV/github-readme-stats"><img alt="Ashutosh-041298-DEV Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-041298-DEV&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&private=true" /></a>
       </p>      
      <br/>
    <p align="center">
@@ -108,12 +108,6 @@
     <a href="https://github.com/Ashutosh-041298-DEV/github-readme-stats"><img alt="Ashutosh-041298-DEV Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-041298-DEV&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&private=true" alt="Ashutosh-041298-DEV" /></a>
     </p>                                                                 
  <h6 align="center"> 
-
-
-<br/>
-<br/>
-
-  <br/>
 
 <br/>
 <br/>
