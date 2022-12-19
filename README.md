@@ -93,19 +93,19 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/Ashutosh-041298-DEV/github-readme-stats"><img alt="Ashutosh-041298-DEV Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-041298-DEV&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ashutosh-041298-DEV/github-readme-stats"><img alt="Ashutosh-041298-DEV Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-041298-DEV&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117@private=true" /></a>
       </p>      
      <br/>
    <p align="center">
     <a href="https://github.com/Ashutosh-041298-DEV/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashutosh-041298-DEV streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-041298-DEV&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashutosh-041298-DEV streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-041298-DEV&hide_border=true&theme=react&hide_border=true&bg_color=0D1117&private=true"/>
     </a>
 </p>                                                                                                                                              
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/Ashutosh-041298-DEV/github-readme-stats"><img alt="Ashutosh-041298-DEV Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-041298-DEV&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Ashutosh-041298-DEV" /></a>
+    <a href="https://github.com/Ashutosh-041298-DEV/github-readme-stats"><img alt="Ashutosh-041298-DEV Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-041298-DEV&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&private=true" alt="Ashutosh-041298-DEV" /></a>
     </p>                                                                 
  <h6 align="center"> 
 
@@ -114,8 +114,6 @@
 <br/>
 
   <br/>
-
-<a href="https://github.com/Ashutosh-041298-DEV/github-readme-activity-graph"><img alt="Ashutosh-041298-DEV Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh-041298-DEV&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
